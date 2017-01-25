@@ -1,0 +1,8 @@
+/target/
+/bin/
+/.classpath
+/.project
+/.settings/
+/.jsweet/
+/target/
+/src/main/resources/META-INF/resources/
